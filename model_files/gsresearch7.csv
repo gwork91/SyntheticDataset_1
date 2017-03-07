@@ -1,7 +1,0 @@
-0,"mean: -25.66817, std: 1.16142, params: {'scale_pos_weight': 0}"
-1,"mean: -25.66817, std: 1.16142, params: {'scale_pos_weight': 1}"
-2,"mean: -25.66817, std: 1.16142, params: {'scale_pos_weight': 2}"
-3,"mean: -25.66817, std: 1.16142, params: {'scale_pos_weight': 5}"
-4,"mean: -25.66817, std: 1.16142, params: {'scale_pos_weight': 10}"
-5,"mean: -25.66817, std: 1.16142, params: {'scale_pos_weight': 50}"
-6,"mean: -25.66817, std: 1.16142, params: {'scale_pos_weight': 100}"
